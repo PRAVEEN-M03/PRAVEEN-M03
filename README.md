@@ -123,16 +123,6 @@ A MERN-based job application tracker designed to help job seekers organize appli
 
 ---
 
-## 🌱 Currently Learning
-
-- Java & Object-Oriented Programming
-- Full-Stack Web Development
-- Database Management
-- Problem Solving & Aptitude
-- Building real-world software projects
-
----
-
 ## 🏆 Beyond Code
 
 - 🎯 Organized and coordinated multiple college events and workshops
